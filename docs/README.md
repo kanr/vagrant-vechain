@@ -1,6 +1,6 @@
-# NOTE: Still experimental, this is not secure and should not be used in production or the mainet
+# NOTE: Still experimental
 
-Vagrant is insecure by design and should not be used for hosting production workloads or running thor on the mainet. This project is for testing changes, updates and scripts in the VeChain ecosystem.
+Vagrant is insecure by design and should not be used for hosting production workloads. This project is for testing changes, updates and scripts in the VeChain ecosystem.
 
 ![VeChain Community](assets/vechain-community-logo.png)
 
