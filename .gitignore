@@ -1,0 +1,9 @@
+.DS_Store
+.terraform
+.vagrant
+*.tfvars
+*secret*
+*.publishsettings
+*secret*
+*.log
+.vscode
